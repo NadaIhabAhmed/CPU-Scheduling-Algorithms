@@ -2,7 +2,8 @@
 
 
 The algorithms include FCFS, SJF non-preemptive, SJF preemptive, Priority non-preemptive, Priority preemptive, and Round robin.
-The project is implemented using C#
+
+The project is implemented using C#.
 
 <h2>Project Files</h2>
 <ul>
